@@ -6,4 +6,4 @@ I've built a food delivery service website that saves your time and offers a var
 The Azure Service used to create the website is : Static Web Apps
 Languages used to make the project : HTML, CSS, JavaScript
 I used Visual Studio Code to write the code of the project.
-# Azure Project link https://victorious-pond-0c4a3ef10.1.azurestaticapps.net
+# Azure Project link https://victorious-pond-0c4a3ef10.1.azurestaticapps.net/
